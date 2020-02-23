@@ -24,14 +24,6 @@ const manifestStr = `
       "windows-amd64": "server/dist/plugin-windows-amd64.exe"
     },
     "executable": ""
-  },
-  "webapp": {
-    "bundle_path": "webapp/dist/main.js"
-  },
-  "settings_schema": {
-    "header": "",
-    "footer": "",
-    "settings": []
   }
 }
 `
